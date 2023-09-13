@@ -37,7 +37,9 @@ The primary key features design of an HR Management System include:
 Overall, the objective of an HR Management System is to enhance HR efficiency, improve employee experiences, support compliance with regular Technology:
 
 **Frontend**: HTML, CSS, JavaScript, React.js, ajax.
+
 **Database**: DynamoDB
+
 **Services**: AWS lambda(Node.js), AWS CloudFront, EC2, S3 bucket, API gateway, CloudWatch, DynamoDB.
 
 **The objective** of this project was to create a dynamic website that could store and retrieve data from a DynamoDB database using AWS Lambda functions. The deployment was performed in several phases, including:
